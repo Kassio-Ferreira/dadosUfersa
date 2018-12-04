@@ -1,4 +1,4 @@
-#' Número de Professores Equivalentes da UFERSA (2017) - TCU
+#' Indicadores Primários da UFERSA (2017) - TCU
 #'
 #' Indicadores primários utilizados para cálculo dos indicadores de gestão da UFERSA,
 #' conforme Decisão TCU 408/2002 - Exercício 2013/2017.
