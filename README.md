@@ -3,8 +3,10 @@ Pacote no R com alguns conjuntos de dados do Relatório de Gestão 2017 da Unive
 
 ## Instalação
 
+``` r
 library(devtools)
 install_github("Kassio-Ferreira/dadosUfersa")
+```
 
 ## Exemplo
 
