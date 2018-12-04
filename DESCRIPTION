@@ -1,0 +1,13 @@
+Package: dadosUfersa
+Type: Package
+Title: Pacote que Disponibiliza Indicadores Sobre a Universidade Federal Rural do Semi-Árido (UFERSA).
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Kassio Camelo Ferreira da Silva <kassio.silva@ufersa.edu.br>
+Description: São disponibilizados os indicadores do TCU para as IFES, bem
+    como os indicadores do Forplad (Fórum Nacional de Pró-Reitores de Planejamento e de Administração 
+    das Instituições Federais de Ensino Superior )
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1

@@ -1,0 +1,27 @@
+#' Número de diplomados e ingressantes na graduação - UFERSA
+#'
+#' A tabela foi construída com base no item 7 do anexo Indicadores do TCU do Relatório
+#' de Gestão 2017 da UFERSA. Os cursos de engenharia não possuem concorrência
+#' disponível, pois os alunos ingressam no curso de Ciência e Tecnologia para
+#' depois, por meio de seleção interna, iniciarem os estudos em alguma área da
+#' engenharia.
+#'
+#' \itemize{
+#'   \item  Curso
+#'   \item  Campus onde está localizado o curso - Angicos, Caraúbas, Mossoró ou
+#'   Pau dos Ferros (campus)
+#'   \item Duração esperada do curso, em anos (duracao)
+#'   \item Número de alunos ingressantes em 2017 - duracao. (ingressos)
+#'   \item Nota do curso no Enade informada na página
+#'   do curso no portal da UFERSA (enade)
+#'   \item Área do curso, podendo ser Ciências Exatas e da Terra (exatas),
+#'   Ciências Biológicas (biologicas), Engenharias, Humanas, Agrárias,
+#'   Ciências Sociais Aplicadas,
+#' }
+#'
+#' @docType data
+#' @keywords datasets
+#' @name diplomados
+#' @usage data(diplomados)
+#' @format Data frame com 38 linhas e 11 colunas.
+"diplomados"
