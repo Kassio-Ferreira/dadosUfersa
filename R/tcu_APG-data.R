@@ -13,7 +13,7 @@
 #'
 #' @docType data
 #' @keywords datasets
-#' @name TCU_APG
-#' @usage data(TCU_APG)
+#' @name tcu_APG
+#' @usage data(tcu_APG)
 #' @format Data frame com 17 linhas e 5 colunas.
 "tcu_APG"
