@@ -1,4 +1,4 @@
-#' Número de Alunos da Pós-Graduação da UFERSA (2013-2017) - TCU
+#' Indicadores de gestão da UFERSA (2013-2017) - TCU
 #'
 #' Indicadores de Gestão, UFERSA – 2013/2017, conforme Decisão nº 408/2002 – TCU – Plenário
 #'
